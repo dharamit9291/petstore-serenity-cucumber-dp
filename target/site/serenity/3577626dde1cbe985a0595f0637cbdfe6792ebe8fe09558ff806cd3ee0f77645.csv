@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing different request on the petstore application","As a user I am getting detail of new user","SUCCESS","2023-01-10T22:33:29.423Z[Europe/London]","0.0","0.94"
+"Testing different request on the petstore application","As a user I am updating user detail","SUCCESS","2023-01-10T22:33:30.542Z[Europe/London]","0.0","1.57"
+"Testing different request on the petstore application","As user I am deleting user detail","SUCCESS","2023-01-10T22:33:32.826Z[Europe/London]","0.0","1.15"
+"Testing different request on the petstore application","As a user I am registering new user detail","SUCCESS","2023-01-10T22:33:34.089Z[Europe/London]","0.0","4.19"
